@@ -1,4 +1,4 @@
-# First Repo!
+# First Repo
 
 ## Subheading
 
@@ -16,4 +16,3 @@ mkdir foo
 - One
 - Two
 - Three
-
